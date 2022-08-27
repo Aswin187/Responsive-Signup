@@ -1,11 +1,11 @@
 # Responsive SignUp & Login
 
-## Simple signup and login page
+## Simple signup and login page using html and css.
 
-
--Responsive signup &login using HTML & CSS...
 
 -dark highlighted colors....
+
+-simple UI design
 
 # Screenshots
 
